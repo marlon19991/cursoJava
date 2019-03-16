@@ -8,5 +8,6 @@ public class Clase3 extends Clase1{
     String gat="uu";
     String gadt="uu";
     String gfft="uudssd";
+    int hyu = 45;
     
 }
