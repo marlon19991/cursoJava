@@ -9,5 +9,6 @@ public class Clase3 extends Clase1{
     String gadt="uu";
     String gfft="uudssd";
     int hyu = 45;
+    String comin = "Esto es un comentario";
     
 }
