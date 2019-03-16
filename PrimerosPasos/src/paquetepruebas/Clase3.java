@@ -5,6 +5,6 @@ public class Clase3 extends Clase1{
 	
 	
    
-    String comin = "Esto es un comentario";
+    String comin = "Era gol de Yepes";
     
 }
