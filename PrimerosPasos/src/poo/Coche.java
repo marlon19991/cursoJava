@@ -13,7 +13,7 @@ public class Coche {
 	
 	public Coche() {
 		
-		ruedas=4;
+		ruedas=40;
 		largo=2000;
 		ancho=300;
 		motor=1600;
